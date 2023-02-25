@@ -1,0 +1,32 @@
+RUL#aslkdfj;als
+ES:multiple     
+
+		 #rooooooo
+
+jump#Hey, I was just dropping in!
+sno capture
+#
+#
+#
+#
+#
+#This is all perfectly legal, you know ;p
+#
+#
+#
+#
+TURN#
+: redBOARD:
+
+-+--++|||||+-++-
+".".".".
+."R"r"."
+"."B".".
+."."."."
+"."."B".
+."."."."
+".".".".
+."."."."
+
+ MOVES: e7->d8 d6->b8 d8->c7 d8->c7 d8->c7 d8->c7 d1->c7
+ 

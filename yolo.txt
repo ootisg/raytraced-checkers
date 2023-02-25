@@ -1,0 +1,32 @@
+RUL#aslkdfj;als
+ES:   multiple   
+
+		 #rooooooo
+
+jump#Hey, I was just dropping in!
+sno capture
+T#
+#
+#
+#
+#
+#This is all perfectly legal, you know ;p
+#
+U#
+#
+#
+RN#
+: blackBOARD:
+
+-+--++|||||+-++-
+"b"b"b"b
+b"b"b"b"
+"b"b"b"b
+."."."."
+".".".".
+."r"r"b"
+"b"b"r"b
+b"b"b"b"
+ MOVES:a1->b2-#This is a pretty evil spot to put a comment, eh?
+>c3  
+ d4->h8
